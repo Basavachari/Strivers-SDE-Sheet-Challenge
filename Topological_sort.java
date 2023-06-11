@@ -1,6 +1,6 @@
 import java.util.* ;
 import java.io.*; 
-public class Solution 
+public class Topological_sort 
 {
     public static ArrayList<Integer> topologicalSort(ArrayList<ArrayList<Integer>> edges, int v, int e) 
     {
